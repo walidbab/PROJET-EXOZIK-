@@ -699,12 +699,16 @@ ol {
 
 /*------------------
   Footer section
----------------------*/
+---------------------
 
 .footer-section {
 	border-top: 3px solid #d82a4e;
-}
+}*/
 
+.footer-section {
+    background: #0a183d;
+    padding: 100px 0 85px;
+}
 .footer-warp {
 	max-width: 1559px;
 	padding: 0 15px;
