@@ -2,7 +2,7 @@
 ------------------------------------
   WebUni - Education Template
   Version: 1.0
- ------------------------------------ 
+ ------------------------------------
  ====================================*/
 
 /*----------------------------------------*/
@@ -127,6 +127,9 @@ ol {
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: top center;
+}
+.reduce-bg{
+	background-size: 100% 90% !important;
 }
 
 .spad {
